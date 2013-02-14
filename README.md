@@ -1,4 +1,4 @@
 devcontlv.github.com
 ====================
 
-devconTLV Workshop repo!
+Awesome devconTLV Workshop repo!
